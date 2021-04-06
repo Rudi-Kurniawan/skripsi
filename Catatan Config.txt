@@ -1,0 +1,13 @@
+//reverse zone
+zone "207.41.103.in-addr.arpa" IN {
+	type master;
+	file "/var/named/207.41.103.in-addr.arpa";
+        allow-update { none, };
+};
+
+
+
+srv1	14400	IN	A		103.41.207.240
+srv2	14400	IN	A	103.41.207.240
+srv1.skripsi.rudi.com.	14400      IN    A     103.41.207.240
+srv2..skripsi.rudi.com.    14400     IN   A       103.41.207.240

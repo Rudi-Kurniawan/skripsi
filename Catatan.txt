@@ -1,0 +1,63 @@
+Amavis
+
+https://campus.barracuda.com/product/essentials/doc/3211291/barracuda-reputation-and-email-categorization/
+https://www.barracudacentral.org/rbl
+
+https://www.barracudacentral.org/lookups
+https://www.barracuda.com/landing/pages/spamfirewall
+
+https://www.natanetwork.com/portal/knowledgebase/152/pengertian-DMARC-dan-manfaatnya-untuk-reputasi-email.html
+https://www.natanetwork.com/portal/knowledgebase/56/Pentingnya-mengaktifkan-SPF-and-DKIM.html
+
+
+http://rianklik.blogspot.com/2013/05/membuat-file-server-dengan-freenas-83.html
+
+ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+
+wmic MEMORYCHIP get speed
+
+password cisco = rRdi_kurniawan123
+
+https://www.danielhs.my.id/2019/09/dynamic-routing-rip-mikrotik-gns3.html
+
+
+
+routerbord = route 0.0.0.0/0 gateway 192.168.1.2
+
+
+TYPE=Ethernet
+PROXY_METHOD=none
+BROWSER_ONLY=no
+BOOTPROTO=static
+DEFROUTE=yes
+IPV4_FAILURE_FATAL=no
+IPV6INIT=yes
+IPV6_AUTOCONF=yes
+IPV6_DEFROUTE=yes
+IPV6_FAILURE_FATAL=no
+IPV6_ADDR_GEN_MODE=stable-privacy
+NAME=ens32
+UUID=28c5aa40-f0a2-4e19-9aec-afe2df1fa770
+DEVICE=ens32
+ONBOOT=yes
+IPADDR=192.168.10.1
+PREFIX=24
+DNS1=192.168.10.1
+DOMAIN=smkn1plampang.local
+IPV6_PRIVACY=no
+
+087771669594
+https://bpptik.kominfo.go.id/2021/01/08/8514/dibuka-pendaftaran-pelatihan-dan-sertifikasi-kompetensi-bidang-tik-berbasis-skkni-online-tahun-2021-gelombang-ke-1/
+
+password elearning = rUDI_KURNIAWAN123
+
+rudikurniawan123@
+
+https://rha.ole.redhat.com/rha/app/summary
+sandi siska = +HfJgO?F
+
+password cloud kilat = rudi.master04011997 ----- 111@@aaaA
+
+layanan bacup cloud kilat = https://kb.cloudkilat.com/informasi-umum/cara-order-layanan-kilat-backup-melalui-portal-cloudkilat
+
+password ssh centos7 cloud kilat = rudi.master04011997
